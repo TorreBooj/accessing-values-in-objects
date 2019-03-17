@@ -8,12 +8,13 @@
 6. In the file tree on the left, you should see your folder with three files under it: `index.html`, `README.md`, and `script.js`. The html file is already set up and links to your javascript file. The README file simply has instructions in it. Feel free to mess around with it if you'd like.
 9. Open the `script.js` file and follow the instructions.
 10. Once you have completed the exercise, run the following three commands:
-
-`git add .`
-::This adds all your changes to the staging area of your local copy of the repo. The period just means "all".
-`git commit -m "MESSAGE"`
-::This commits your changes so that, next time you push your changes, these files qualify for that push.
-`git push`
-::This pushes all your changes to the remote repo on GitHub. Once the push is done, you can go to your GitHub repo, refresh the page, and confirm that all your most recent changes are there.
+<ul>
+	<li>`git add .`<br>
+	::This adds all your changes to the staging area of your local copy of the repo. The period just means "all".</li>
+	<li>`git commit -m "MESSAGE"`<br>
+	::This commits your changes so that, next time you push your changes, these files qualify for that push.</li>
+	<li>`git push`<br>
+	::This pushes all your changes to the remote repo on GitHub. Once the push is done, you can go to your GitHub repo, refresh the page, and confirm that all your most recent changes are there.</li>
+</ul>
 
 11. Once you have pushed all your changes, send me the link to your repo.
