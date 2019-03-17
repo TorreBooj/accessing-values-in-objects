@@ -9,11 +9,11 @@
 9. Open the `script.js` file and follow the instructions.
 10. Once you have completed the exercise, run the following three commands:
 <ul>
-	<li>`git add .`<br>
+	<li><code>git add .</code><br>
 	::This adds all your changes to the staging area of your local copy of the repo. The period just means "all".</li>
-	<li>`git commit -m "MESSAGE"`<br>
+	<li><code>git commit -m "MESSAGE"</code><br>
 	::This commits your changes so that, next time you push your changes, these files qualify for that push.</li>
-	<li>`git push`<br>
+	<li><code>git push</code><br>
 	::This pushes all your changes to the remote repo on GitHub. Once the push is done, you can go to your GitHub repo, refresh the page, and confirm that all your most recent changes are there.</li>
 </ul>
 
